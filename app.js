@@ -1,9 +1,7 @@
 /* jshint asi: true */
 jQuery( document ).ready(function() {
 	'use strict'
-	
 	//window.document.designMode = "On";
-	
 	$('#button-holder').draggable()
 	
 	$('form').click( function(e){
